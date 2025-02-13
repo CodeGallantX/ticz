@@ -1,0 +1,17 @@
+[
+{
+        "type": "Regular Access",
+        "slots": 20,
+        "price": "free"
+    },
+    {
+        "type": "VIP Access",
+        "slots": 20,
+        "price": "$50"
+    },
+    {
+        "type": "VVIP Access",
+        "slots": 20,
+        "price": "$150"
+    }
+]
